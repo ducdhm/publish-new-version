@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 - present Duc Doan Hoang Minh
+Copyright (c) 2020 - present Duc Doan <ducdhm@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
