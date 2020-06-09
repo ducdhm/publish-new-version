@@ -1,6 +1,6 @@
 {
     "name": "publish-new-version",
-    "version": "0.9.9",
+    "version": "1.0.0",
     "description": "An utility to publishing new version for your package",
     "main": "index.js",
     "repository": {
