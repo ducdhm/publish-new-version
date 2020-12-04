@@ -35,7 +35,7 @@ module.exports = async (callback) => {
         packageJson.version = newVersion;
         fs.writeFileSync(
             packageJsonPath,
-            JSON.stringify(packageJson, ' ', 4),
+            JSON.stringify(packageJson, ' ', 4) + '\n',
             'utf-8',
         );
 
