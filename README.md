@@ -1,5 +1,5 @@
 # publish-package-version
-A utility to publishing new version for your package, includes creating tag & release on Github and publish package to NPM
+An utility to publishing new version for your package, includes creating tag & release on Github and publish package to NPM
 
 ## Usage
 ```js
